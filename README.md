@@ -90,7 +90,9 @@ The phases of a vCons life include:
 
 ## Digital Rights Management
 
-Interwoven with the vCon lifecycle is the management of consent that applies to the vCon.  In this case, a more modern idea of consent is imagined: consent is gathered by the data controller, for a particular purpose such a training or sharing, that can be withdrawn by the data subject on demand.  This withdrawl of consent may result in the revocation of a vCon, or in it's modification to remove the non-consenting portions. 
+Interwoven with the vCon lifecycle is the management of consent that applies to the vCon.
+In this case, a more modern idea of consent is imagined: consent is gathered by the data controller, for a particular purpose such a training or sharing, that can be withdrawn by the data subject on demand.
+This withdrawl of consent may result in the revocation of a vCon, or in it's modification to remove the non-consenting portions. 
 
 Lifecycle events in Digital Rights Management include: 
 
