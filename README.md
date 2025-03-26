@@ -67,7 +67,8 @@ An entity may be a Data Originator, Data Controller, Data Processor or some othe
 
 ## vCon Lifecycle: Creation, Distribution and Deletion
 
-The vCon lifecycle is a series of phases that occur in a vCon, from creation, through distribution to deletion.  The tracking of these phases aids in enabling of fundamental privacy rights such as the right to know how your data was processed ("Right to Know") and secures AI supply chains by establishing provenance and guaranteeing integrity.  
+The vCon lifecycle is a series of phases that occur in the life of a vCon, from creation through distribution to deletion.
+Tracking these phases aids in enabling fundamental privacy rights, such as the right to know how your data was processed ("Right to Know"), and secures AI supply chains by establishing provenance and guaranteeing integrity.  
 
 The phases of a vCons life include: 
 
