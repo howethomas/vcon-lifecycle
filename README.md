@@ -88,15 +88,11 @@ This withdrawl of consent may result in the revocation of a vCon, or in it's mod
 
 Lifecycle events in Digital Rights Management include: 
 
-1. **Consent to Record**: Consent is requested from the Data Subject to record the conversation.
-
-2. **Consent for Purpose**: Confirmation of consent for specific purposes (e.g., "sales followup") is obtained.
-
-3. **Consent Recorded**: The Data Controller records where consent was confirmed in the transcript or recording.
-
-4. **Consent Receipt Sent**: Notification is sent to Data Subject(s) with a link to review consent details.
-
-5. **Consent Review/Revocation**: Data Subject can review or choose to revoke consent at any time.
+1. **ConsentToRecord**: Consent is requested from the Data Subject to record the conversation.
+2. **ConsentForPurpose**: Confirmation of consent for specific purposes (e.g., "sales followup") is obtained.
+3. **ConsentRecorded**: The Data Controller records where consent was confirmed in the transcript or recording.
+4. **ConsentReceipt Sent**: Notification is sent to Data Subject(s) with a link to review consent details.
+5. **ConsentReview-Revocation**: Data Subject can review or choose to revoke consent at any time.
 
 6. **RevokeRequestProcessing**: If consent is revoked, the request is processed and communicated to all parties.
 
