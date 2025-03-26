@@ -31,7 +31,9 @@ These relying parties can then use this information to make decisions based on t
 SCITT, the Supply Chain, Integrity, Transparency, and Trust protocol, enables clients to register statements about events, physical or virtual, such as when things are created or used.
 These statements are immutable and are useful to support auditing, governance, and coordination between various distributed systems. 
 
-This draft provides an overview of the requirements and a workflow to onboard customers with end-to-end, interoperable services and tooling which honors the charter of the working group to safely pass conversational data between consenting parties.  The workflow enables entities in the workflow to be collaborate on a vCon, while assuring all entities in the workflow are adhering to relevant PII regulations using a [Supply Chain, Integrity, Transparency and Trust (SCITT)][draft-scitt] Ledger.  Actual implementations of these workflows are left to implementers and applications; this draft provides an authoritative list of the entries that should appear on the SCITT transparency ledger to enable them. 
+This draft provides an overview of the requirements and a workflow for onboarding customers with end-to-end, interoperable services and tooling, which honors the working group's charter to pass conversational data safely between consenting parties.
+The workflow enables entities in the workflow to collaborate on a vCon while assuring all entities in the workflow adhere to relevant PII regulations using a [Supply Chain, Integrity, Transparency and Trust (SCITT)][draft-scitt] Ledger.
+Actual implementations of these workflows are left to implementers and applications; this draft provides an authoritative list of the entries that should appear on the SCITT transparency ledger to enable them. 
   
 
 ## Conventions and Definitions
