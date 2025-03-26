@@ -111,15 +111,16 @@ Lifecycle events in Digital Rights Management include:
 
 ## Ammendment of Existing vCons
 
-Under normal circumstances, vCons may be ammended. For example, at the time of creation, the parties to a vCon may be verified by a number of existing methods such as OAuth.  However, in the case were account credentials are found to be lost or compromised, this opnion may be revisited.  Issues with Party Verification are a prime cause of
-"Rights to Correct" requests, fundamental to responsible data rights management.  Other enchancement and modification of vCons may occur for many other security reasons, future processing needs or in response to changes in regulations or compliance requirements. 
+Under normal circumstances, vCons may be amended.
+For example, at the time of creation, the parties to a vCon may be verified by a number of existing methods such as OAuth.
+However, in the case where account credentials are found to be lost or compromised, the "opinion of being verified" may be revisited.
+Issues with Party Verification are a prime cause of "Rights to Correct" requests, and they are fundamental to responsible data rights management.
+Other enhancements and modifications of vCons may occur for many other security reasons, future processing needs, or in response to changes in regulations or compliance requirements. 
 
 Events that may be recorded on the distributed ledger include:
 
-1. **Dialog Added**: A dialog is saved and added to the vCon.
-
-2. **vCon Processed**: The Data Controller may process the vCon 
-
+1. **DialogAdded**: A dialog is saved and added to the vCon.
+2. **vConProcessed**: The Data Controller may process the vCon.
 3. **Data Redaction**: Data Processors delete the data or redact the Data Subject.
 
 
