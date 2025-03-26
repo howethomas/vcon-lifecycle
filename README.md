@@ -106,7 +106,7 @@ Lifecycle events in Digital Rights Management include:
 
 5. **Consent Review/Revocation**: Data Subject can review or choose to revoke consent at any time.
 
-6. **Revoke Request Processing**: If consent is revoked, the request is processed and communicated to all parties.
+6. **RevokeRequestProcessing**: If consent is revoked, the request is processed and communicated to all parties.
 
 
 ## Ammendment of Existing vCons
