@@ -79,10 +79,7 @@ The phases of a vCons life include:
 5. **vConEnhanced**: The Data Controller adds transcription and license information and identifies themselves.
 6. **vConSentToProcessors**: The Data Controller sends the vCon to relevant Data Processors.
 7. **Data Processing**: Value-added services are performed on the vCon data.
-
-8. **vCon Deletion**: The vCon is deleted when no longer needed, when consent is revoked, or when it expires.
-
-
+8. **vConDeletion**: The vCon is deleted when no longer needed, when consent is revoked, or when it expires.
 ## Digital Rights Management
 
 Interwoven with the vCon lifecycle is the management of consent that applies to the vCon.
