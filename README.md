@@ -342,8 +342,6 @@ A vCon Manifest references the blobs, enabling the sharing of a subset of a vCon
 
 # vCon Lifecycle Events and Operations
 
-vCons contain multiple elements of Personally Identifiable Information of the parties involved, including phone numbers, emails, voice & facial prints and location information. These elements are what make vCons so powerful to assist customers.
-However, the information must be handled responsibly, giving the involved parties an opportunity to consent to their information being captured, and the ability to revoke consent with the right to be forgotten.
-
-
-
+vCons contain multiple elements of Personally Identifiable Information of the parties involved, including phone numbers, emails, voice & facial prints, and location information.
+These elements are what make vCons so powerful in assisting customers.
+However, the information must be handled responsibly, allowing the involved parties to consent to their data being captured and the ability to revoke consent with the right to be forgotten.
