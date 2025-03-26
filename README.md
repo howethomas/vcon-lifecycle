@@ -72,18 +72,12 @@ Tracking these phases aids in enabling fundamental privacy rights, such as the r
 
 The phases of a vCons life include: 
 
-1. **vCon Created**: The call completes and a vCon is created with call metadata stored in the vCon Registry.
-
-2. **Recording Added**: The actual recording is saved and added to the attachments section of the vCon.
-
-3. **vCon Sent**: The Data Originator sends the vCon to the Data Controller with integrity protection using SCITT.
-
-4. **vCon Received**: The Data Controller receives the vCon and records this in the SCITT Transparency Service.
-
-5. **vCon Enhanced**: The Data Controller adds transcription, license information, and identifies themselves.
-
-6. **vCon Sent to Processors**: The Data Controller sends the vCon to relevant Data Processors.
-
+1. **vConCreated**: The call completes, and a vCon is created with call metadata stored in the vCon Registry.
+2. **RecordingAdded**: The actual recording is saved and added to the attachments section of the vCon.
+3. **vConSent**: The Data Originator sends the vCon to the Data Controller with integrity protection using SCITT.
+4. **vConReceived**: The Data Controller receives the vCon and records this in the SCITT Transparency Service.
+5. **vConEnhanced**: The Data Controller adds transcription and license information and identifies themselves.
+6. **vConSentToProcessors**: The Data Controller sends the vCon to relevant Data Processors.
 7. **Data Processing**: Value-added services are performed on the vCon data.
 
 8. **vCon Deletion**: The vCon is deleted when no longer needed, when consent is revoked, or when it expires.
